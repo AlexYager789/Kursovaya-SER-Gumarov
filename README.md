@@ -37,7 +37,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/ser-ensembles.git
+git clone https://github.com/AlexYager789/Kursovaya-SER-Gumarov.git
 cd ser-ensembles
 git lfs pull
 
